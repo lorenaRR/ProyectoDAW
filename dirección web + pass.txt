@@ -1,0 +1,8 @@
+https://app-biblioteca.azurewebsites.net/index.html
+
+- ADMINISTRADOR:
+	USER: admin
+	PASS: admin
+- USUARIO:
+	USER: user
+	PASS: user
